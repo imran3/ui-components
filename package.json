@@ -1,6 +1,6 @@
 {
   "name": "@imran3/ui-components",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Imran Azam",
   "keywords": [
     "react",
@@ -15,6 +15,10 @@
     "dist",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imran3/ui-components"
+  },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.16.2",
