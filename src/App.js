@@ -11,6 +11,8 @@ function App() {
         justifyContent: "center",
         gap: "1.5rem",
         padding: "5rem",
+        alignItems: "center",
+        height: "100%",
       }}
     >
       <p>Should i push this button?</p>
