@@ -1,6 +1,6 @@
-# UI Components: a set of simple, custom and reausable components for React.
+# UI Components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This library contains a set of simple, custom and reusable components for React.
 
 ## Available Scripts
 
